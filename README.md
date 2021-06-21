@@ -1,10 +1,10 @@
 ### Hey there! 👋  <img src="https://komarev.com/ghpvc/?username=Pranav-Saxena&style=flat&label=Profile+Views&color=blue" width="30">
 
-<p>Hi!, I'm <b>Pranav Saxena<b>, a teen software developer from <b>Delhi, India</b>.</p>
+Hi!, I'm **Pranav Saxena**, a teen software developer from **Delhi, India**
 I'm a high school student currently learning Python <img src = "https://i.imgur.com/ml09ccU.png" width="30">
 
-<h3>Things I code with</h3>
-<p>
+##Things I code with
+
   <img alt="Python" src = "https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
   <img alt="Arduino" src ="https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-E10098?style=flat-square&logo=sql&logoColor=white" />
@@ -14,8 +14,8 @@ I'm a high school student currently learning Python <img src = "https://i.imgur.
   <img alt="IntelliJ_Idea" src ="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a" />
   <img alt="VS_code" src ="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a" />
   <img alt="Digital_Ocean" src ="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a: />
-  <img alt="WIndows" src ="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a" />
- </p>
+  ![]("https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+
   
 ### Connect with me:
   <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Pranav Saxena#9327 
