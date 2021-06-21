@@ -18,11 +18,13 @@ I'm a high school student currently learning Python <img src = "https://i.imgur.
  </p>
   
 ### Connect with me:
-  <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Pranav Saxena#9327 <br>
-  ![](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno_Community&logo=discord&logoColor=white&url=https://discord.gg/tTr6DvyRCH)
-                                                                                                                    
-  <iframe src="https://discord.com/widget?id=833364768076988458&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Pranav Saxena#9327 
+  [![Website](https://img.shields.io/website?label=Inferno_Community&style=for-the-badge&url=https://discord.gg/tTr6DvyRCH)](Inferno_Community)
   
+                                                                                                                  
+                                                                                                                    ![](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno_Community&logo=discord&logoColor=white&url=https://discord.gg/tTr6DvyRCH)
+                                                                                                                    
+ 
 ### Projects :-
   [Inferno](https://discord.com/api/oauth2/authorize?client_id=808690602358079508&permissions=4294967287&scope=bot) - A Multipurpose discord bot ![](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno_Community&logo=discord&logoColor=white&url=https://discord.gg/tTr6DvyRCH)
   
