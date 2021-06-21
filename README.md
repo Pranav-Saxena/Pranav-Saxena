@@ -1,4 +1,4 @@
-### Hey there! 👋        <img src="https://komarev.com/ghpvc/?username=Pranav-Saxena&style=flat&label=Profile+Views&color=blue" width="110">
+## Hey there! 👋 &nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Pranav-Saxena&style=flat&label=Profile+Views&color=blue" width="110">
 
 I'm **Pranav Saxena**, a teen software developer from **Delhi, India**.
 
@@ -22,7 +22,7 @@ I'm a high school student currently learning Python <img src = "https://i.imgur.
   
   [![Discord](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno%20Community&logo=discord&logoColor=white)](https://discord.gg/tTr6DvyRCH)             
 ## Projects
-  [Inferno](https://discord.com/api/oauth2/authorize?client_id=808690602358079508&permissions=4294967287&scope=bot) - A Multipurpose discord bot [![Discord](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno%20Community&logo=discord&logoColor=white)](https://discord.gg/tTr6DvyRCH) 
+  [Inferno](https://discord.com/api/oauth2/authorize?client_id=808690602358079508&permissions=4294967287&scope=bot) - A Multipurpose discord bot &nbsp;&nbsp; [![Discord](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno%20Community&logo=discord&logoColor=white)](https://discord.gg/tTr6DvyRCH) 
   
 ## My Stats
   [![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranav-Saxena&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Pranav-Saxena)
