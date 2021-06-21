@@ -1,6 +1,7 @@
 ### Hey there! 👋        <img src="https://komarev.com/ghpvc/?username=Pranav-Saxena&style=flat&label=Profile+Views&color=blue" width="110">
 
-Hi!, I'm **Pranav Saxena**, a teen software developer from **Delhi, India**
+I'm **Pranav Saxena**, a teen software developer from **Delhi, India**.
+
 I'm a high school student currently learning Python <img src = "https://i.imgur.com/ml09ccU.png" width="14">
 
 ## Things I code with
