@@ -19,10 +19,8 @@ I'm a high school student currently learning Python <img src = "https://i.imgur.
   
 ### Connect with me:
   <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Pranav Saxena#9327 
-  [!(https://img.shields.io/website?label=Inferno_Community&style=for-the-badge&url=https://discord.gg/tTr6DvyRCH)]
-  
                                                                                                                   
-                                                                                                                    ![](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno_Community&logo=discord&logoColor=white&url=https://discord.gg/tTr6DvyRCH)
+  ![(https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno_Community&logo=discord&logoColor=white&url=https://discord.gg/tTr6DvyRCH)]
                                                                                                                     
  
 ### Projects :-
