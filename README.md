@@ -7,7 +7,7 @@ I'm a high school student currently learning Python <img src = "https://i.imgur.
 ## Things I code with
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-Github_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
