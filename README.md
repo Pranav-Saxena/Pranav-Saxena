@@ -14,7 +14,7 @@ I'm a high school student currently learning Python <img src = "https://i.imgur.
   <img alt="IntelliJ_Idea" src ="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a" />
   <img alt="VS_code" src ="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a" />
   <img alt="Digital_Ocean" src ="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a: />
-  ![]("https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
   
 ### Connect with me:
