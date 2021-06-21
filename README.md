@@ -1,4 +1,4 @@
-### Hey there! 👋  <img align="right" src="https://komarev.com/ghpvc/?username=Pranav-Saxena&style=flat&label=Profile+Views&color=blue" width="30">
+### Hey there! 👋  <img src="https://komarev.com/ghpvc/?username=Pranav-Saxena&style=flat&label=Profile+Views&color=blue" width="30">
 
 <p>Hi!, I'm <b>Pranav Saxena<b>, a teen software developer from <b>Delhi, India</b>.</p>
 I'm a high school student currently learning Python <img src = "https://i.imgur.com/ml09ccU.png" width="30">
@@ -20,6 +20,8 @@ I'm a high school student currently learning Python <img src = "https://i.imgur.
 ### Connect with me:
   <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Pranav Saxena#9327 <br>
   ![](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno_Community&logo=discord&logoColor=white&url=https://discord.gg/tTr6DvyRCH)
+                                                                                                                    
+  <iframe src="https://discord.com/widget?id=833364768076988458&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   
 ### Projects :-
   [Inferno](https://discord.com/api/oauth2/authorize?client_id=808690602358079508&permissions=4294967287&scope=bot) - A Multipurpose discord bot ![](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno_Community&logo=discord&logoColor=white&url=https://discord.gg/tTr6DvyRCH)
