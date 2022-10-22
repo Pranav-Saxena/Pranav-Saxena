@@ -1,8 +1,8 @@
 ## Hey there! 👋 &nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Pranav-Saxena&style=flat&label=Profile+Views&color=blue" width="110">
 
-I'm **Pranav Saxena**, an 18 year old software developer from **Delhi, India**.
+I'm **Pranav Saxena**, an 18 year old software developer, fresher at BITS Pilani, KK Birla Goa Campus currently exploring my interests in the field of ML
 
-I'm a high school student currently learning Python <img src = "https://i.imgur.com/ml09ccU.png" width="14">
+
 
 ## Things I code with
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
