@@ -1,6 +1,6 @@
 ## Hey there! 👋 &nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Pranav-Saxena&style=flat&label=Profile+Views&color=blue" width="110">
 
-I'm **Pranav Saxena**, an 18 year old software developer, fresher at BITS Pilani, KK Birla Goa Campus, currently exploring my interests in the field of ML
+I'm **Pranav Saxena**, a 19 year old software developer, fresher at BITS Pilani, KK Birla Goa Campus, currently exploring my interests in the field of ML
 
 
 
