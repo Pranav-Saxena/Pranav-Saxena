@@ -24,7 +24,7 @@ I'm **Pranav Saxena**, a 19 year old software developer, fresher at BITS Pilani,
 ## Projects
   [Inferno](https://discord.com/api/oauth2/authorize?client_id=808690602358079508&permissions=4294967287&scope=bot) - A Multipurpose discord bot &nbsp;&nbsp; [![Discord](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno%20Community&logo=discord&logoColor=white)](https://discord.gg/tTr6DvyRCH) 
   
-  [PyCarbonSh](https://github.com/Pranav-Saxena/PyCarbonSh) - The Asynchronous web-scraper for carbon.now.sh which helps to create and share beautiful pics of your code! <a href="https://pypi.org/project/pycarbonsh/"><img src="https://img.shields.io/pypi/v/pycarbonsh.svg" alt="PyPi Version Info"></a>
+  [PyCarbonSh](https://github.com/Pranav-Saxena/PyCarbonSh) - The Asynchronous web-scraper for carbon.now.sh which helps to create and share beautiful pics of your code! [![Downloads](https://static.pepy.tech/badge/pycarbonsh)](https://pepy.tech/project/pycarbonsh)
   
 ## My Stats
   [![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranav-Saxena&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Pranav-Saxena)
