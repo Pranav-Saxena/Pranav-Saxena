@@ -2,6 +2,7 @@
 
 I'm **Pranav Saxena**, a 19 year old software developer, fresher at BITS Pilani, KK Birla Goa Campus, currently exploring my interests in the field of ML
 
+I am also a Verified Bot Developer on Discord! 
 
 
 ## Things I code with
