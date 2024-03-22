@@ -1,8 +1,9 @@
 ## Hey there! 👋 &nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Pranav-Saxena&style=flat&label=Profile+Views&color=blue" width="110">
 
-I'm **Pranav Saxena**, a 19 year old software developer, sophomore at BITS Pilani, KK Birla Goa Campus, currently exploring my interests in the field of Robotics and Computer Vision.
+- I'm **Pranav Saxena**, a 20 year old Robotics and Computer Vision enthusiast.
+- Sophomore at BITS Pilani, KK Birla Goa Campus.
 
-I am also a Verified Bot Developer on Discord! 
+- I am also a Verified Bot Developer on Discord! 
 
 
 ## Things I code with
