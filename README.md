@@ -23,10 +23,6 @@
   <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Pranav Saxena#9327 
   
   [![Discord](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno%20Community&logo=discord&logoColor=white)](https://discord.gg/tTr6DvyRCH)             
-## Projects
-  [Inferno](https://discord.com/api/oauth2/authorize?client_id=808690602358079508&permissions=4294967287&scope=bot) - A Multipurpose discord bot &nbsp;&nbsp; [![Discord](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno%20Community&logo=discord&logoColor=white)](https://discord.gg/tTr6DvyRCH) 
-  
-  [PyCarbonSh](https://github.com/Pranav-Saxena/PyCarbonSh) - The Asynchronous web-scraper for carbon.now.sh which helps to create and share beautiful pics of your code! [![Downloads](https://static.pepy.tech/badge/pycarbonsh)](https://pypi.org/project/pycarbonsh/)
   
 ## My Stats
   [![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranav-Saxena&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Pranav-Saxena)
