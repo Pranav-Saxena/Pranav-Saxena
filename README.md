@@ -22,5 +22,6 @@
 ## Connect with me
   <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> catto_13
          
-  
+## My Stats
+  ![](https://github-readme-stats.vercel.app/api?username=Pranav-Saxena&show_icons=true&theme=neon&rank_icon=github) 
 
