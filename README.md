@@ -21,7 +21,6 @@
   
 ## Connect with me
   <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> catto_13
-  
-  [![Discord](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno%20Community&logo=discord&logoColor=white)](https://discord.gg/tTr6DvyRCH)             
+         
   
 
