@@ -24,5 +24,4 @@
   
   [![Discord](https://img.shields.io/discord/833364768076988458?color=%237289DA&label=Inferno%20Community&logo=discord&logoColor=white)](https://discord.gg/tTr6DvyRCH)             
   
-## My Stats
-  [![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranav-Saxena&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Pranav-Saxena)
+
